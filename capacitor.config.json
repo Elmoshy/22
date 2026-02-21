@@ -1,0 +1,22 @@
+{
+  "appId": "com.elmoshy.etijahalhuda",
+  "appName": "Etijah Alhuda",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#09090b",
+    "minWebViewVersion": 60
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#09090b",
+      "showSpinner": false
+    },
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon_config_sample",
+      "iconColor": "#f59e0b",
+      "sound": "beep.wav"
+    }
+  }
+}
